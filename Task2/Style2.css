@@ -1,0 +1,47 @@
+
+h1 {
+    color: #ea7a18;
+    font-family: "Roboto";
+    font-size: large;
+    font-weight: 100;
+    text-align: center; 
+    margin-top: 80px;
+  }
+  .Container {
+    background-color: black;
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+.img1{
+    height:150px;
+    width:150px;
+    margin-top: 20px;
+    margin-left: 135px; 
+  }
+
+  .img2{
+    height:150px;
+    width:150px;
+   
+    }
+  
+  .Card {
+    background-image: linear-gradient(teal,red,green);
+    height: 53vh;
+    width: 80vh;
+    background-size: cover;
+  
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+  }
+  
+
+
+
+
