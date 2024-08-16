@@ -6,8 +6,7 @@ import {Skills} from './components/Skills';
 import {Projects} from './components/Projects';
 import {About} from './components/About';
 import {Contact} from './components/Contact';
-import { fontAwesome } from 'fontawesome';
-import (fontAwesome)
+
 
 
 
