@@ -1,14 +1,16 @@
 
+
 h1 {
-    color: #ea7a18;
+    color: black;
     font-family: "Roboto";
     font-size: large;
-    font-weight: 100;
+    font-weight: 100%;
     text-align: center; 
     margin-top: 80px;
   }
   .Container {
-    background-color: black;
+    background-image: url('https://img.freepik.com/free-photo/sports-stadium_1308-4848.jpg?t=st=1724153672~exp=1724157272~hmac=c66ad71911caba66fe404efda16dfcac36b9afb03a37ec9df4d9066d5b5908e9&w=1060');
+    background-repeat: no-repeat;
     height: 100vh;
     background-size: cover;
     display: flex;
@@ -31,7 +33,7 @@ h1 {
     }
   
   .Card {
-    background-image: linear-gradient(teal,red,green);
+    background-color: skyblue;
     height: 53vh;
     width: 80vh;
     background-size: cover;
