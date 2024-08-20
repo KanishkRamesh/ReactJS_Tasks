@@ -1,17 +1,13 @@
-import logo from './logo.svg';
-import './style.css';
 
-import Task2 from './Components/Task2';
 
-function App() {
+import "./Task2.css"
+import Task2 from "./components/Task2";
+
+export default function App() {
   return (
-    
-   
     <>
-    <Task2/>
-    
+      <Task2 />
+      
     </>
   );
 }
-
-export default App;
