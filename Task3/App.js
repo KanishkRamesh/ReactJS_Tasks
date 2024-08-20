@@ -1,18 +1,14 @@
 
-import logo from './logo.svg';
-import './Style3.css';
 
-import Task3 from './Components/Task3';
+import "./Task3.css"
 
-function App() {
+import Task3 from "./components/Task3";
+
+export default function App() {
   return (
-    
-   
     <>
-    <Task3/>
-    
+      <Task3 />
+      
     </>
   );
 }
-
-export default App;
