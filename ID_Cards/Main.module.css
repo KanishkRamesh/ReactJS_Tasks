@@ -1,0 +1,46 @@
+.head{
+    padding-top: 5%;
+    text-align: center;
+    width: 100%;
+    font-size: xx-large;
+    font-weight: 90%;
+    background-image: url('https://img.freepik.com/free-photo/luxury-plain-green-gradient-abstract-studio-background-empty-room-with-space-your-text-picture_1258-63578.jpg?ga=GA1.1.1660795096.1724569813&semt=ais_hybrid');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    padding-top: 1%;
+    text-align: start;
+    justify-content:center;
+    padding-bottom: 20%;
+    background-image: url('https://img.freepik.com/free-photo/luxury-plain-green-gradient-abstract-studio-background-empty-room-with-space-your-text-picture_1258-63578.jpg?ga=GA1.1.1660795096.1724569813&semt=ais_hybrid');
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex-direction: row;
+    display: flex;
+    
+}
+
+.content{
+    border-radius: 8%;
+    padding: 50px;
+    
+    text-align: center;
+    margin: 20px;
+    background-color: rgb(192, 216, 208); 
+}
+.content:hover{
+    background-color: rgb(115, 192, 167);
+}
+
+.btn{
+    width: 100%;
+    padding: 5%;
+    border-radius: 5%;
+    color: white;
+    background-color: green;
+}
+.btn:hover{
+    background-color: lightgreen; 
+    color: black;
+}

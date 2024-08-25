@@ -1,0 +1,89 @@
+
+[
+    {
+        "image": "https://img.freepik.com/free-vector/illustration-user-avatar-icon_53876-5907.jpg?t=st=1724571478~exp=1724575078~hmac=22bab8e18929a6d450752b16f698e6abab44dbb8126e8fbcbfa19f43e26beede&w=740",
+        "name": "Bharath M",
+        "rollno": "2222KA07",
+        "class": "CS-A",
+        "link": "https://singular-sherbet-936199.netlify.app/"
+        
+    },
+    {
+        "image": "https://img.freepik.com/free-vector/illustration-user-avatar-icon_53876-5908.jpg?t=st=1724571589~exp=1724575189~hmac=da77e10b762db6ecced1279f26b17268636bb261fb845501d67da774eb7d0026&w=740",
+        "name": "Deepika B",
+        "rollno": "2222KA10",
+        "class": "CS-A",
+        "link": "https://glittery-faloodeh-b1e760.netlify.app/"
+
+    },
+    {
+        "image": "https://img.freepik.com/free-vector/illustration-user-avatar-icon_53876-5908.jpg?t=st=1724571589~exp=1724575189~hmac=da77e10b762db6ecced1279f26b17268636bb261fb845501d67da774eb7d0026&w=740",
+        "name": "Gopika S",
+        "rollno": "2222KA17",
+        "class": "CS-A",
+        "link":"https://moonlit-cajeta-aef293.netlify.app/"
+    },
+    {
+        "image": "https://img.freepik.com/free-vector/illustration-user-avatar-icon_53876-5907.jpg?t=st=1724571478~exp=1724575078~hmac=22bab8e18929a6d450752b16f698e6abab44dbb8126e8fbcbfa19f43e26beede&w=740",
+        "name": "Hari prasad P",
+        "rollno": "2222KA18",
+        "class": "CS-A",
+        "link":"https://flourishing-lokum-5c677e.netlify.app/"
+    },
+    {
+        "image": "https://img.freepik.com/free-vector/illustration-user-avatar-icon_53876-5907.jpg?t=st=1724571478~exp=1724575078~hmac=22bab8e18929a6d450752b16f698e6abab44dbb8126e8fbcbfa19f43e26beede&w=740",
+        "name": "Joel R",
+        "rollno": "2222KA23",
+        "class": "CS-A",
+        "link":"https://joel-roy.netlify.app/"
+    },
+    {
+        "image": "https://img.freepik.com/free-vector/illustration-user-avatar-icon_53876-5907.jpg?t=st=1724571478~exp=1724575078~hmac=22bab8e18929a6d450752b16f698e6abab44dbb8126e8fbcbfa19f43e26beede&w=740",
+        "name": "Kanishk R",
+        "rollno": "2222KA25",
+        "class": "CS-A",
+        "link":"https://merry-cactus-3f601a.netlify.app/"
+    },
+    {
+        "image": "https://img.freepik.com/free-vector/illustration-user-avatar-icon_53876-5907.jpg?t=st=1724571478~exp=1724575078~hmac=22bab8e18929a6d450752b16f698e6abab44dbb8126e8fbcbfa19f43e26beede&w=740",
+        "name":"Chandhru J",
+        "rollno": "2222KA08",
+        "class": "CS-A",
+        "link":"https://glittering-cendol-a85e16.netlify.app/"
+    },
+    {
+        "image": "https://img.freepik.com/free-vector/illustration-user-avatar-icon_53876-5908.jpg?t=st=1724571589~exp=1724575189~hmac=da77e10b762db6ecced1279f26b17268636bb261fb845501d67da774eb7d0026&w=740",
+        "name": "Malina G A",
+        "rollno": "2222KA34",
+        "class": "CS-A",
+        "link":"https://admirable-custard-70d846.netlify.app/"
+    },
+    {
+        "image": "https://img.freepik.com/free-vector/illustration-user-avatar-icon_53876-5907.jpg?t=st=1724571478~exp=1724575078~hmac=22bab8e18929a6d450752b16f698e6abab44dbb8126e8fbcbfa19f43e26beede&w=740",
+        "name": "Sanjai K",
+        "rollno": "2222KA44",
+        "class": "CS-A",
+        "link":"https://6681872bdd2cea1c7b8603d1--lambent-dasik-7ee17f.netlify.app/"
+    },
+    {
+        "image": "https://img.freepik.com/free-vector/illustration-user-avatar-icon_53876-5907.jpg?t=st=1724571478~exp=1724575078~hmac=22bab8e18929a6d450752b16f698e6abab44dbb8126e8fbcbfa19f43e26beede&w=740",
+        "name": "Sarath K H",
+        "rollno": "2222KA48",
+        "class": "CS-A",
+        "link":"https://sarathnit.neocities.org/portfolio_sarath/assets/"
+    },
+    {
+        "image": "https://img.freepik.com/free-vector/illustration-user-avatar-icon_53876-5908.jpg?t=st=1724571589~exp=1724575189~hmac=da77e10b762db6ecced1279f26b17268636bb261fb845501d67da774eb7d0026&w=740",
+        "name": "Vedha sri C",
+        "rollno": "2222KA56",
+        "class": "CS-A",
+        "link":"https://enchanting-blini-0930b8.netlify.app/"
+    },
+    {
+        "image": "https://img.freepik.com/free-vector/illustration-user-avatar-icon_53876-5907.jpg?t=st=1724571478~exp=1724575078~hmac=22bab8e18929a6d450752b16f698e6abab44dbb8126e8fbcbfa19f43e26beede&w=740",
+        "name": "Velmurugan M",
+        "rollno": "2222KA57",
+        "class": "CS-A",
+        "link":"https://bright-pothos-0585ac.netlify.app/"
+    }
+]
